@@ -43,9 +43,8 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  jekyll (= 3.5.0)
+  jekyll
   jekyll-feed (~> 0.6)
-  tzinfo-data
 
 BUNDLED WITH
-   1.15.1
+   1.16.0.pre.2
